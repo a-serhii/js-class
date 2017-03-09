@@ -53,16 +53,3 @@ Ivan.weight = 80;
 console.log(Ivan);
 Ivan.work();
 console.log('Ivan is sex = ' + Ivan.sex);
-
-
-
-
-
-
-
-
-
-
-
-
-
